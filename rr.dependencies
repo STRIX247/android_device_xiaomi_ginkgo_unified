@@ -1,0 +1,20 @@
+[
+  {
+    "repository": "STRIX247/vendor_miuicamera",
+    "target_path": "vendor/miuicamera",
+    "branch": "10.0",
+    "remote": "github"
+  },
+  {
+    "repository": "STRIX247/vendor_xiaomi_ginkgo",
+    "target_path": "vendor/xiaomi/ginkgo",
+    "branch": "10.0",
+    "remote": "github"
+  },
+  {
+    "repository": "STRIX247/kernel_xiaomi_ginkgo",
+    "target_path": "kernel/xiaomi/ginkgo",
+    "branch": "10.0",
+    "remote": "github"
+  }
+]
